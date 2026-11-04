@@ -25,11 +25,4 @@ Connect Claude, ChatGPT, Cursor or any MCP client to your team through the
 [Unolia MCP server](https://unolia.com/docs/agent-mcp). Agents get project briefs, environment maps,
 costs, incidents and DNS audits, without a single provider credential in the prompt.
 
-### Open source
-
-**[unolia-cli](https://github.com/unolia/unolia-cli)** is the command line for Unolia. Deploy a site
-and follow it, edit DNS and watch it propagate, list what is broken and what can be fixed. At a
-terminal it prompts and draws tables; in a pipe, in CI or in an agent it never prompts, answers JSON
-and exits with a code that says what happened.
-
 Questions? [support@unolia.com](mailto:support@unolia.com)
